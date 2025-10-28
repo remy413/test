@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>sys_connection</connection_type>
+        <id>x_1079624_test.GIT</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>GIT</name>
+        <parent/>
+        <retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-28 10:55:57</sys_created_on>
+        <sys_id>08852be6c3b4321025d95d02b4013122</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1079624_test.GIT</sys_name>
+        <sys_package display_value="test" source="x_1079624_test">8f25afa6c3b4321025d95d02b40131dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">8f25afa6c3b4321025d95d02b40131dc</sys_scope>
+        <sys_update_name>sys_alias_08852be6c3b4321025d95d02b4013122</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-28 10:56:22</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
